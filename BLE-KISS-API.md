@@ -270,6 +270,7 @@ Radios and TNCs:
 * RPC Electronics ESP32-APRS Tracker
 * Richonguzman / CA2RXU LoRa APRS Tracker on TGO T-Beam and LoRa32v2.1 boards
 * [B.B. Link Adapter](https://getbblink.com) for Kenwood TH-D74/5 radios
+* Vero VGC VR-N76, BTECH UV-PRO, Radioddity GA-5WB FM+APRS dual band HT
 
 By supporting the BLE KISS API your device or application will be compatible
 with these existing implementations without any changes in those.
