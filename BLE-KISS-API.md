@@ -259,6 +259,7 @@ Known implementations
 Client applications:
 
 * aprs.fi APRS application (iPhone & iPad)
+* aprs.fi Android application
 * RadioMail Winlink email app (iPhone & iPad)
 * PocketPacket APRS app (iPhone & iPad)
 
@@ -271,6 +272,8 @@ Radios and TNCs:
 * Richonguzman / CA2RXU LoRa APRS Tracker on TGO T-Beam and LoRa32v2.1 boards
 * [B.B. Link Adapter](https://getbblink.com) for Kenwood TH-D74/5 radios
 * Vero VGC VR-N76, BTECH UV-PRO, Radioddity GA-5WB FM+APRS dual band HT
+* [kiss-ble-uart-tnc](https://github.com/tomasgeci/kiss-ble-uart-tnc) for
+  building an BLE - UART adapter yourself
 
 By supporting the BLE KISS API your device or application will be compatible
 with these existing implementations without any changes in those.
