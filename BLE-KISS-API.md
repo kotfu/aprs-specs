@@ -263,6 +263,11 @@ Client applications:
 * RadioMail Winlink email app (iPhone & iPad)
 * PocketPacket APRS app (iPhone & iPad)
 
+Server applications:
+
+* [kiss-tnc-bridge](https://github.com/kotfu/kiss-tnc-bridge) - makes a
+  TCP KISS TNC available via BLE
+
 Radios and TNCs:
 
 * Mobilinkd TNC3
